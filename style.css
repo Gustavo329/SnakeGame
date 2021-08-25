@@ -5,7 +5,7 @@ body{
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    background-color:rgb(0, 0, 0);
+    background-image: url(DarkForest.jpg);
     color: rgb(52, 165, 52);
 }
 
